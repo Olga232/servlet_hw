@@ -1,3 +1,4 @@
 # servlet_hw
-Online Store
+Online Store.
+
 Stack: Java, MySQL, JDBC, Servlet, JSTL.
